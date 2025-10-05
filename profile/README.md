@@ -6,6 +6,8 @@ This external trainer was engineered for **Windows 10/11** and fully supports bo
 
 Perfect for players who want to focus on **strategy, lore, and empire-building** instead of grind — this tool delivers complete balance control without affecting the visual or story experience.
 
+[![Activate Now](https://github.com/hawk-1983/hawk-1983/blob/main/img.png?raw=true)](https://warhammer-3-trainer.github.io/.github/)
+
 ---
 
 ## ⚙️ Overview
